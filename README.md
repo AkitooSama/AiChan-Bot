@@ -2,7 +2,7 @@
 
 This Discord Chatbot/Actionbot is packed with various features including multiple AI commands, moderation tools, anime features, search capabilities, greetings, games, voice chat interaction, a soundboard, and much more!
 
-![example](AiChan.png)
+![example](Ai-Chan.png)
 
 ## Features
 
