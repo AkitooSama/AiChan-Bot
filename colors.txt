@@ -1,0 +1,31 @@
+Bubblegum Pink: #FFC3D6 (255, 195, 214)
+Lighter Shade: #FFDCE5 (255, 220, 229)
+Darker Shade: #FFA7C2 (255, 167, 194)
+
+
+Lemon Yellow: #FFF275 (255, 242, 117)
+Lighter Shade: #FFF9A8 (255, 249, 168)
+Darker Shade: #FFEA54 (255, 234, 84)
+
+
+Sky Blue: #87CEEB (135, 206, 235)
+Lighter Shade: #B2E0FF (178, 224, 255)
+Darker Shade: #5EB8D6 (94, 184, 214)
+
+
+Lavender: #D1B2FF (209, 178, 255)
+Lighter Shade: #E6D1FF (230, 209, 255)
+Darker Shade: #B58CFF (181, 140, 255)
+
+
+Mint Green: #98FF98 (152, 255, 152)
+Lighter Shade: #B4FFB4 (180, 255, 180)
+Darker Shade: #7FFF7F (127, 255, 127)
+
+Latte Brown: #D2B48C (210, 180, 140)
+
+Cocoa Brown: #8B4513 (139, 69, 19)
+
+Espresso Brown: #4B3621 (75, 54, 33)
+
+Blood Red: #AA0000 (170, 0, 0)
