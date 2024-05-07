@@ -16,7 +16,7 @@ This Discord Chatbot/Actionbot is packed with various features including multipl
 - **Music Player**: Supports playing music with filters and background music.
 - **Translator**: Includes translation capabilities.
 - **Event and Stage Manager**: Manages Discord events and stages.
-- **Multiple Language Support**
+- **Multiple Language Support!!**
 
 ![example](example1.png)
 ![example](example2.png)
